@@ -13,5 +13,7 @@ public class AppTest
     }
 
     @Test
-    public void theAnswer(){}
+    public void theAnswer(){
+        System.out.println("We are inside the theAnswer test");
+    }
 }
